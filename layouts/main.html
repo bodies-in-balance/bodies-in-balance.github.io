@@ -259,5 +259,25 @@
          slideWidth: 0
        });
      });
-    </script></body>
+    </script>
+    <script type="text/javascript" language="javascript">
+     jQuery(document).ready(function($) {
+       $(function() {
+         var sliderDiv = $('#slider');
+         if (sliderDiv[0]) {
+           sliderDiv.crossSlide({
+             sleep: 3,
+             fade: 5
+           }, [
+             { src: '{{ url }}/images/KelwA_Corrado_178_1.jpg'},
+             { src: '{{ url }}/images/KelwB_Corrado_177_1.jpg'},
+             { src: '{{ url }}/images/KelwC_Corrodo_174.jpg'},
+             { src: '{{ url }}/images/Solo_Corrado_087_1.jpg'},
+             { src: '{{ url }}/images/drp_Corrado_122_1.jpg'}
+           ]);
+         }
+       });
+     });
+    </script>
+  </body>
 </html>

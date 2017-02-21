@@ -2,6 +2,7 @@
 title: Home
 layout: main.html
 ---
+<div id="slider"></div>
 
 **Welcome to Bodies in Balance**
 
