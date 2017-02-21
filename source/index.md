@@ -2,7 +2,13 @@
 title: Home
 layout: main.html
 ---
-<div id="slider"></div>
+<ul id="slideshow-widget-container">
+  <li><img src="/images/KelwA_Corrado_178_1.jpg" /></li>
+  <li><img src="/images/KelwB_Corrado_177_1.jpg" /></li>
+  <li><img src="/images/KelwC_Corrado_174_1.jpg" /></li>
+  <li><img src="/images/Solo_Corrado_087_1.jpg" /></li>
+  <li><img src="/images/drp_Corrado_122_1.jpg" /></li>
+</ul>
 
 **Welcome to Bodies in Balance**
 

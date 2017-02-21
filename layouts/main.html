@@ -240,9 +240,9 @@
     <script type='text/javascript' src='js/theme-4.4.7.js'></script>
     <script type='text/javascript' src='js/wp-embed-4.4.7.min.js'></script>
     <script type='text/javascript' src='js/jquery.bxslider-4.2.7.min.js'></script>
-    <script type='text/javascript' src='js/jquery.cross-slide-4.4.7.min.js'></script>
     <script type="text/javascript">
      var tw_2 = null;
+     var image_slider = null;
 
      jQuery(document).ready(function() {
        tw_2 = jQuery('.testimonials-widget-testimonials2').bxSlider({
@@ -258,24 +258,19 @@
          slideMargin: 2,
          slideWidth: 0
        });
-     });
-    </script>
-    <script type="text/javascript" language="javascript">
-     jQuery(document).ready(function($) {
-       $(function() {
-         var sliderDiv = $('#slider');
-         if (sliderDiv[0]) {
-           sliderDiv.crossSlide({
-             sleep: 3,
-             fade: 5
-           }, [
-             { src: '{{ url }}/images/KelwA_Corrado_178_1.jpg'},
-             { src: '{{ url }}/images/KelwB_Corrado_177_1.jpg'},
-             { src: '{{ url }}/images/KelwC_Corrodo_174.jpg'},
-             { src: '{{ url }}/images/Solo_Corrado_087_1.jpg'},
-             { src: '{{ url }}/images/drp_Corrado_122_1.jpg'}
-           ]);
-         }
+
+       image_slider = jQuery('#slideshow-widget-container').bxSlider({
+         adaptiveHeight: true,
+         auto: true,
+         autoControls: false,
+         autoHover: true,
+         controls: false,
+         mode: 'horizontal',
+         pager: false,
+         pause: 4000,
+         preloadImages: 'all',
+         slideMargin: 2,
+         slideWidth: 0
        });
      });
     </script>
