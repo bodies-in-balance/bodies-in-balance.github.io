@@ -2,8 +2,8 @@
 layout: main.html
 title: Forms
 ---
-[Liability Waiver form](forms/Waiver-form-2015.pdf)
+<a download target="_blank" href="/forms/Waiver-form-2015.pdf">Liability Waiver form</a>
 
-[Health History form](forms/Health-History-form-2015.pdf)
+<a download target="_blank" href="/forms/Health-History-form-2015.pdf">Health History form</a>
 
 **A phone call 24 hours in advance of canceling your session is needed or a full session fee will be charged.**
