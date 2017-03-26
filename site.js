@@ -6,7 +6,7 @@ Metalsmith(__dirname)
   .metadata({
     title: "Bodies in Balance Pilates Website",
     generator: "Metalsmith",
-    url: "http://localhost:3000"
+    url: "https://www.bodiesinbalancepilates.com"
   })
   .source('./source')
   .destination('./build')
