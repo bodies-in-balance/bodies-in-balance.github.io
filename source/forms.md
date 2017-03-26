@@ -2,7 +2,7 @@
 layout: main.html
 title: Forms
 ---
-<a download target="_blank" rel="noopener noreferrer" href="/forms/Waiver-form-2015.pdf">Liability Waiver form</a>
+<a download target="_blank" rel="noopener noreferrer" href="/forms/Waiver-form-2017.pdf">Liability Waiver form</a>
 
 <a download target="_blank" rel="noopener noreferrer" href="/forms/Health-History-form-2015.pdf">Health History form</a>
 
