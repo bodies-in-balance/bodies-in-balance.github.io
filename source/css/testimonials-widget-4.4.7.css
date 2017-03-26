@@ -86,7 +86,7 @@
 
 .testimonials-widget-testimonial cite:before,
 .testimonials-widget-testimonial div.credit:before {
-	content: "– "
+	content: "- "
 }
 
 .testimonials-widget-testimonial .join-title:before,
