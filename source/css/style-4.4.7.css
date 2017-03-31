@@ -83,6 +83,7 @@ img{max-width:100%;height:auto}
 .c12,.w320 .c1,.w320 .c2,.w320 .c3,.w320 .c4,.w320 .c5,.w320 .c6,.w320 .c7,.w320 .c8,.w320 .c9,.w320 .c10,.w320 .c11,
 .w640 .c1,.w640 .c2,.w640 .c3,.w640 .c4,.w640 .c5,.w640 .c6,.w640 .c7,.w640 .c8,.w640 .c9,.w640 .c10,.w640 .c11{width:100%}
 .c1,.c2,.c3,.c4,.c5,.c6,.c7,.c8,.c9,.c10,.c11,.c12{min-height:1px;float:left;padding-left:20px;padding-right:20px;position:relative}
+.s05{margin-left:4.6%}
 .s1{margin-left:8.33%}
 .s2{margin-left:16.66%}
 .s3{margin-left:25%}
@@ -1936,4 +1937,9 @@ a img.aligncenter {
 	#slider-wrap,#slider-wrap .image-anchor{max-height:240px}
 	.tabberota .slide,.tabberota_nu .slide{width:100%}
 	.tabberota .images,.tabberota_nu .images,.tabberota .text p,.tabberota_nu .text p,.scrollerota .content,.dot-selector{display:none}
+}
+
+#copyright {
+  margin-left: 4.6%;
+  margin-top: 10px;
 }
