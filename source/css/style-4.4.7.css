@@ -1945,3 +1945,7 @@ a img.aligncenter {
   margin-bottom: 30px;
   padding-left: 55px;
 }
+
+#primary {
+  min-height: 550px;
+}
