@@ -10,6 +10,6 @@ Using smooth, concise movements, focused breathing and progressive resistance, P
 
 Pilates technique can be effective for everyone from pregnant women to elite athletes.
 
-[![Balanced Body](images/Balanced-Body-logo.gif)](http://www.pilates.com)
+[![Balanced Body](/images/Balanced-Body-logo.gif)](http://www.pilates.com)
 
 We use and recommend [Pilates equipment by Balanced Body](http://www.pilates.com)
