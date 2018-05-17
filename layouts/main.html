@@ -23,6 +23,7 @@
     <style type="text/css" id="custom-background-css">
      body.custom-background { background-color: #1e73be; background-image: url('images/solid.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
     </style>
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class="home page page-id-20 page-template-default custom-background">
@@ -259,6 +260,17 @@
          slideWidth: 0
        });
      });
+    </script>
+    <script>
+     if (window.netlifyIdentity) {
+       window.netlifyIdentity.on("init", (function(user) {
+         if (!user) {
+           window.netlifyIdentity.on("login",  (function () {
+             document.location.href = "/admin/";
+           }));
+         }
+       }));
+     }
     </script>
   </body>
 </html>
