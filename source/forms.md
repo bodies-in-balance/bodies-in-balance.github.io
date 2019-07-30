@@ -1,5 +1,5 @@
 ---
-layout: main.html
+layout: main.hbs
 title: Forms
 ---
 <a download target="_blank" rel="noopener noreferrer" href="/forms/Waiver-form-2017.pdf">Liability Waiver form</a>

@@ -1,5 +1,5 @@
 ---
-layout: main.html
+layout: main.hbs
 title: Why Pilates?
 ---
 Core control. That is the foundation of Pilates and the key to a stronger, more stable, healthier you.

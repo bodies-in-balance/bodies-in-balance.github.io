@@ -1,5 +1,5 @@
 ---
-layout: main.html
+layout: main.hbs
 title: Contact
 ---
 

@@ -1,5 +1,5 @@
 ---
-layout: main.html
+layout: main.hbs
 title: My Story
 ---
 When I was 14 my mother, a nurse and widow with five children, severely injured her back. As a result, she was confined to bed at home in traction for three months. I clearly remember taking the weights on and off the traction unit, helping her to get dressed and helping get in and out of the car. This is when my passion for helping people — especially those with pain — started.

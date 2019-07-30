@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: main.html
+layout: main.hbs
 ---
 **Welcome to Bodies in Balance**
 

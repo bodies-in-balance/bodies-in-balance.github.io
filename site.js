@@ -13,7 +13,8 @@ Metalsmith(__dirname)
   .clean(false)
   .use(markdown())
   .use(layouts({
-    engine: 'handlebars'
+    "default": "main.hbs",
+    "pattern": "**/*.html"
   }))
   .build(function(err, files) {
     if (err) { throw err; }

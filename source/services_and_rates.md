@@ -1,5 +1,5 @@
 ---
-layout: main.html
+layout: main.hbs
 title: Services and Rates
 ---
 **Initial Consultation for New Clients**
