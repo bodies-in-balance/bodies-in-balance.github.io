@@ -1,0 +1,9 @@
+# Redirect domain aliases to primary domain
+https://binbpilates.com/* https://www.binbpilates.com/:splat 301!
+https://marysuecorrado.com/* https://www.binbpilates.com/:splat 301!
+https://www.marysuecorrado.com/* https://www.binbpilates.com/:splat 301!
+https://bodiesinbalancepilates.com/* https://www.binbpilates.com/:splat 301!
+https://www.bodiesinbalancepilates.com/* https://www.binbpilates.com/:splat 301!
+
+# Optional: Redirect default Netlify subdomain to primary domain
+https://bodies-in-balance.netlify.com/* https://www.binbpilates.com/:splat 301!
