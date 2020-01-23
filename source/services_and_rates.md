@@ -2,7 +2,7 @@
 layout: main.hbs
 title: Services and Rates
 ---
-**Initial Consultation for New Clients**
+### Initial Consultation for New Clients
 
 **Fee: $110**
 ($99.91 session fee + $10.09 sales tax)
@@ -13,7 +13,7 @@ breathing and neutral alignment. If you are referred from a Health
 Practitioner, we will design a session with their
 recommendations. This session is 1½ hours in length.
 
-**Private Sessions**
+### Private Sessions
 
 **Fee: $90.00**
 ($81.74 session fee + $8.26 sales tax)
