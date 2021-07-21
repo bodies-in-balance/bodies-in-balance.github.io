@@ -10,4 +10,4 @@ Email:&nbsp;<a href="mailto:bodiesinbalance4msc@comcast.net">bodiesinbalance4msc
 
 Phone:&nbsp;206-783-5919
 
-Mailing Address:&nbsp;PO Box 30003 Seattle WA 98113
+Mailing Address:&nbsp;10734 9th Ave NW Seattle WA 98177
