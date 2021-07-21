@@ -8,4 +8,4 @@ person. However, I am available for remote sessions using a video
 call! If you would like to set up an appointment please [get in
 touch](/contact.html).
 
-__Mailing Address:__ PO Box 30003 Seattle WA 98113
+__Mailing Address:__ 10734 9th Ave NW Seattle WA 98177
