@@ -4,8 +4,7 @@ title: Services and Rates
 ---
 ### Initial Consultation for New Clients
 
-**Fee: $110**
-($99.91 session fee + $10.09 sales tax)
+**Call for fee schedule**
 
 During the initial consultation we will go over your health history,
 discuss conditioning goals, and introduce important concepts of
@@ -15,8 +14,7 @@ recommendations. This session is 1½ hours in length.
 
 ### Private Sessions
 
-**Fee: $90.00**
-($81.74 session fee + $8.26 sales tax)
+**Call for fee schedule**
 
 After your initial consultation we begin working on postural alignment
 and what needs to happen in your body to create neutral alignment. For
