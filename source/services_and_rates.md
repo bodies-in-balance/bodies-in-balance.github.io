@@ -4,7 +4,7 @@ title: Services and Rates
 ---
 ### Initial Consultation for New Clients
 
-**Call for fee schedule**
+**[Contact for current fee schedule](/contact.html)**
 
 During the initial consultation we will go over your health history,
 discuss conditioning goals, and introduce important concepts of
@@ -14,7 +14,7 @@ recommendations. This session is 1½ hours in length.
 
 ### Private Sessions
 
-**Call for fee schedule**
+**[Contact for current fee schedule](/contact.html)**
 
 After your initial consultation we begin working on postural alignment
 and what needs to happen in your body to create neutral alignment. For
