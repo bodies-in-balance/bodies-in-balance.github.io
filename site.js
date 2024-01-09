@@ -1,6 +1,6 @@
 var Metalsmith  = require('metalsmith');
-var markdown    = require('metalsmith-markdown');
-var layouts     = require('metalsmith-layouts');
+var markdown    = require('@metalsmith/markdown');
+var layouts     = require('@metalsmith/layouts');
 
 Metalsmith(__dirname)
   .metadata({
